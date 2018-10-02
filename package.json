@@ -1,11 +1,16 @@
 {
   "name": "@huangzj/restful",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "restfull router you need",
   "main": "index.js",
   "scripts": {
     "test": "node test/index.js"
   },
+  "keywords": [
+    "restful",
+    "route",
+    "lib"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/bitores/restful.git"
