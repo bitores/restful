@@ -1,0 +1,23 @@
+{
+  "name": "@huangzj/restful",
+  "version": "1.0.0",
+  "description": "restfull router you need",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bitores/restful.git"
+  },
+  "author": "huanzj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bitores/restful/issues"
+  },
+  "homepage": "https://github.com/bitores/restful#readme",
+  "dependencies": {
+    "debug": "^4.0.1",
+    "path-to-regexp": "^2.4.0"
+  }
+}
